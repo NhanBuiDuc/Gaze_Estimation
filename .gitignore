@@ -1,0 +1,11 @@
+# Ignore everything in the EV_Eye_dataset folder
+EV_Eye_dataset/*
+
+# But don't ignore .gitkeep file
+!EV_Eye_dataset/.gitkeep
+
+# Ignore everything in the 
+tempDir/*
+
+# But don't ignore .gitkeep file
+!tempDir/.gitkeep
